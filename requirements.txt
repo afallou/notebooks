@@ -1,0 +1,7 @@
+# Development tools
+ipython>=4.2.0
+jupyter>=1.0.0
+
+# Numerical Computation
+numpy>=1.11.0
+scipy>=0.17.1
