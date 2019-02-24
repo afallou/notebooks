@@ -5,3 +5,6 @@ jupyter>=1.0.0
 # Numerical Computation
 numpy>=1.11.0
 scipy>=0.17.1
+
+# Plotting
+matplotlib>=3.0.2
